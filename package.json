@@ -1,5 +1,5 @@
 {
-  "name": "@seneca/refer",
+  "name": "@seneca/web-spider",
   "version": "0.6.0",
   "main": "dist/refer.js",
   "type": "commonjs",
